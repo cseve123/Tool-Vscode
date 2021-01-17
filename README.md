@@ -58,3 +58,9 @@ command + K + W 关闭了所有文件和编辑区
 删除文件 :!del xxx || :!rm xxx
 复制 y yw y$
 下一行末 j$
+
+## 环境工具
+utools
+nvm
+nrm
+TeamViewer
