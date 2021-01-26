@@ -3,6 +3,14 @@
 File Utils---用快捷键来：创建、移动、改名、删除文件或文件夹
 Javascript (ES6) code snippets---快速生成代码
 ES7 React/Redux/GraphQl/React-Native snippets
+filesize---文件大小
+Vetur---vue语法高亮
+vscode-icons---文件图标
+TODO Highlight---TODO高亮
+TODO Tree---TODOq全局追踪
+Path Intellisense---文件路径
+Live Server---本地服务
+[Prettier](https://prettier.io/)---代码格式统一
 
 ## 配置语言
 shift + command + p
