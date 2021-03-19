@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "desc-vim.useCtrlKeys": "用于禁止vim对于Ctrl键的映射开关",
+  "vim.useCtrlKeys": false,
+  "desc-vim.handleKeys": "用于配置vim具体按键的映射开关",
+  "vim.handleKeys": {
+    "<C-d>": false,
+    "<C-c>": false,
+    "<C-w>": false,
+    "<C-a>": false,
+    "<C-s>": false,
+    "<C-f>": false
+  }
+}
